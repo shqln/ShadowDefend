@@ -1,3 +1,6 @@
-author: Shiqi Lin
+Author: Shiqi Lin
 
-This repository contains my solution for project 1
+# Screenshots
+![Optional Text](../master/docs/screenshots/sc1.png)
+![Optional Text](../master/docs/screenshots/sc2.png)
+
